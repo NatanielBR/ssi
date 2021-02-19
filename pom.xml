@@ -6,12 +6,12 @@
 
     <groupId>br.com.natanielbr.ssi</groupId>
     <artifactId>ssi-project</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.1</version>
     <packaging>pom</packaging>
 
     <modules>
         <module>ssi</module>
-        <module>scans</module>
+<!--        <module>scans</module>-->
     </modules>
 
     <properties>
