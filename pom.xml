@@ -11,7 +11,7 @@
 
     <modules>
         <module>ssi</module>
-        <module>scans</module>
+        <!--<module>scans</module>-->
     </modules>
 
     <properties>
