@@ -1,6 +1,0 @@
-br\com\natanielbr\ssi\interfaces\objs\CapituloScan.class
-br\com\natanielbr\ssi\interfaces\objs\MangaScan.class
-br\com\natanielbr\ssi\interfaces\Scrapper.class
-br\com\natanielbr\ssi\interfaces\objs\CapituloScan$CapituloScanBuilder.class
-br\com\natanielbr\ssi\interfaces\objs\MangaInfo.class
-br\com\natanielbr\ssi\interfaces\utils\MangaScanIterator.class
