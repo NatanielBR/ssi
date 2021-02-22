@@ -13,6 +13,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="scamanga scans" target="8" />
+      <module name="scans" target="8" />
       <module name="untitled" target="8" />
     </bytecodeTargetLevel>
   </component>
